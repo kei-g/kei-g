@@ -13,6 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+:bar_chart: GitHub Status :clipboard:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kei-g&show_icons=true&theme=nord)](https://github.com/kei-g/github-readme-stats)
+
+---
+
 :trophy: Trophy :trophy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kei-g&column=4&theme=nord)](https://github.com/kei-g/github-profile-trophy)
@@ -20,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kei-g&theme=nord)](https://git.io/streak-stats)
+
+---
