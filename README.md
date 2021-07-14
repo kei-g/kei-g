@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+:runner: Streak :runner:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kei-g&theme=nord)](https://git.io/streak-stats)
 
 ---
