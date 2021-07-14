@@ -33,3 +33,11 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kei-g&theme=nord)](https://git.io/streak-stats)
 
 ---
+
+:speaking_head: Languages :robot:
+
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=10&layout=compact&username=kei-g)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=kei-g)](https://github.com/anuraghazra/github-readme-stats)
+
+---
