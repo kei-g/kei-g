@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 :bar_chart: Status :clipboard:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei-g&show_icons=true&theme=nord)](https://github.com/kei-g/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei-g&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 :trophy: Trophy :trophy:
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kei-g&column=4&theme=nord)](https://github.com/kei-g/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kei-g&column=4&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
