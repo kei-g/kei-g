@@ -1,6 +1,6 @@
 # My profile
 
-- 👋 Hi, I’m @kei-g
+- 👋 Hi, I’m [@kei-g](https://github.com/kei-g) a.k.a. [@snowstep115](https://github.com/snowstep115)
 - 👀 I’m interested in any programming languages, algorithms, and technologies
 
 <!--
