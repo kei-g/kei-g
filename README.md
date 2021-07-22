@@ -9,11 +9,6 @@
 - 📫 How to reach me ...
 -->
 
-<!---
-kei-g/kei-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ---
 
 :bar_chart: Status :clipboard:
