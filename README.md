@@ -19,7 +19,7 @@
 
 :trophy: Trophy
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kei-g&column=4&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kei-g&column=4&theme=nord&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
