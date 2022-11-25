@@ -11,6 +11,12 @@
 
 ---
 
+:technologist: Skills
+
+[![My Skills](https://skillicons.dev/icons?i=angular,bash,bootstrap,bsd,c,cs,cpp,cmake,css,docker,dotnet,git,github,githubactions,haskell,heroku,html,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,postgres,powershell,py,rails,redis,regex,ruby,rust,sass,sqlite,stackoverflow,svg,twitter,ts,vim,vscode,wasm)](https://skillicons.dev)
+
+---
+
 :bar_chart: Status :clipboard:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kei-g&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
