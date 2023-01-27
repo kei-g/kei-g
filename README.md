@@ -1,13 +1,21 @@
 # My profile
 
-- 👋 Hi, I’m [@kei-g](https://github.com/kei-g) a.k.a. [@snowstep115](https://github.com/snowstep115)
-- 👀 I’m interested in any programming languages, algorithms, and technologies
+- :wave: Hi, I’m [@kei-g](https://github.com/kei-g) - a fullstack developer through electronic handicraft to web frontend with mathematical background.
+- :open_mouth: My first name 'Keiji' is pronounced not as 'kiːji' but as pretty similar to Mr. Nicolas Cage's one.
 
-<!--
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
+## History
+
+- :boy: I've begun programming by being attracted and interested in how do NES games work.
+- :man_student: I studied mathematics at the Faculty of Science at Osaka University in Japan.
+- :technologist: I worked as a developer for Windows applications, libraries, and device drivers in early and middle twenties.
+  - :man_teacher: Besides working, I taught mathematics and physics to junior and senior highschool students at cram school.
+- :man_scientist: I worked at R&D corp in later twenties, and occupied researching medical network foundations and so on.
+- :man: In early thirties, I was helping to launch a business consulted by a fellow of highschool.
+- :bearded_person: The rest of the thirties, I worked as a senior engineer and hosted hackathons with constructing its infrastructure, and entrusted iOS app developments, and so on, also holding the post of a manager.
+
+## Now
+
+- Now, I'm attempting to contribute to OSSs as much as I can by feeding the knowledge I've gained back.
 
 ---
 

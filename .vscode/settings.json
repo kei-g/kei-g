@@ -7,4 +7,21 @@
     "package.json",
     "vscode-extension",
   ],
+  "markdownlint.config": {
+    "MD009": false,
+    "MD026": false,
+  },
+  "[markdown]": {
+    "cSpell.advanced.feature.useReferenceProviderWithRename": true,
+    "cSpell.advanced.feature.useReferenceProviderRemove": "/^#+\\s/",
+    "cSpell.fixSpellingWithRenameProvider": true,
+    "editor.trimAutoWhitespace": false,
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off",
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+  },
 }
