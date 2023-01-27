@@ -13,7 +13,7 @@
 
 :technologist: Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,bash,bootstrap,bsd,c,cs,cpp,cmake,css,docker,dotnet,git,github,githubactions,haskell,heroku,html,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,postgres,powershell,py,rails,redis,regex,ruby,rust,sass,sqlite,stackoverflow,svg,twitter,ts,vim,vscode,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bash,bootstrap,bsd,c,cs,cpp,cmake,css,docker,dotnet,git,github,githubactions,haskell,heroku,html,java,js,jquery,latex,linux,lua,md,mysql,nginx,nodejs,postgres,powershell,py,rails,raspberrypi,redis,regex,ruby,rust,sass,sqlite,stackoverflow,svg,twitter,ts,vim,vscode,wasm)](https://skillicons.dev)
 
 ---
 
