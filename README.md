@@ -10,7 +10,7 @@
 - :technologist: I worked as a developer for Windows applications, libraries, and device drivers in early and middle twenties.
   - :man_teacher: Besides working, I taught mathematics and physics to junior and senior highschool students at cram school.
 - :man_scientist: I worked at R&D corp in later twenties, and occupied researching medical network foundations and so on.
-- :man: In early thirties, I was helping to launch a business consulted by a fellow of highschool.
+- :man: In early thirties, I was helping to launch a business by being invited from a fellow high school.
 - :bearded_person: The rest of the thirties, I worked as a senior engineer and hosted hackathons with constructing its infrastructure, and entrusted iOS app developments, and so on, also holding the post of a manager.
 
 ## Now
