@@ -5,7 +5,7 @@
 
 ## History
 
-- :boy: I've begun programming by being attracted and interested in how do NES games work.
+- :boy: I began programming by being attracted and interested in how do NES games work.
 - :man_student: I studied mathematics at the Faculty of Science at Osaka University in Japan.
 - :technologist: I worked as a developer for Windows applications, libraries, and device drivers in early and middle twenties.
   - :man_teacher: Besides working, I taught mathematics and physics to junior and senior highschool students at cram school.
